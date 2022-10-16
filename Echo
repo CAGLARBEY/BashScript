@@ -1,0 +1,5 @@
+#!/bin/bash
+#Ekrana yazdırmak için echo komutunu kullanırız. Echo komutu ile yazacağımız metni istersen tırnaksız , tek tırnak veya çift tırnak kullanarak yazabiliriz. 
+echo Hello World 
+echo 'Hello World'
+echo "Hello World"
