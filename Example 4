@@ -1,0 +1,6 @@
+#!/bin/bash
+echo Welcome to the crash-finding program!
+read -p "Enter a number: " num1
+read -p "Enter a number: " num2
+t=$((num1*num2))
+echo $t
