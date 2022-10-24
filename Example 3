@@ -1,0 +1,4 @@
+#!/bin/bash
+random=$(((RANDOM%100)+1))
+echo Loading value...
+echo $random
