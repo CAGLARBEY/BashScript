@@ -1,0 +1,7 @@
+#!/bin/bash
+echo "Sistem güncellemesi scriptine hoşgeldiniz."
+echo "Root paneline yönlendiriliyorsunuz. "
+sudo apt-get update
+echo "sistem kontrol ediliyor."
+sudo apt-get upgrade
+echo "sistem güncellendi..."
